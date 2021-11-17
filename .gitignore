@@ -1,4 +1,5 @@
 /build/*
 !/build/triangle.exe
-bin/
+/bin/*
+!/bin/triangle.exe
 lib/
