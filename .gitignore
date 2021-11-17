@@ -2,4 +2,4 @@
 !/build/triangle.exe
 /bin/*
 !/bin/triangle.exe
-lib/
+/lib/
