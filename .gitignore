@@ -1,0 +1,4 @@
+/build/*
+!/build/triangle.exe
+bin/
+lib/
